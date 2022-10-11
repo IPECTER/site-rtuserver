@@ -29,7 +29,10 @@
 		});
 
 	// Scrolly.
-		$('.scrolly').scrolly();
+		$('.scrolly').scrolly({
+			speed: 1000,
+			offset: function() { return $header.height() + 10; }
+		});
 	
 	// Header.
 		if ($header.hasClass('alt')
