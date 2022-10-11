@@ -1,12 +1,6 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic");
 
-/*
-	Photon by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 html,
 body,
 div,
@@ -2820,7 +2814,7 @@ button,
 	display: inline-block;
 	font-size: 0.9em;
 	font-weight: 400;
-	height: 2.4em;
+	height: 2.5em;
 	letter-spacing: 0.125em;
 	line-height: 2.75em;
 	padding: 0 2em;
